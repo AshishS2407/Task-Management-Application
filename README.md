@@ -1,4 +1,4 @@
-# 🎬 **Task Management App** 🎬
+#  **Task Management App** 
 
 **📄 PROJECT OVERVIEW**
 
@@ -69,4 +69,8 @@ We welcome contribution! 🙌 Feel free to fork this project, open issues, or su
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg) 
+
+## 📝 Key Information
+
+The project is not complete. the back side of the project is fully functional but there are pending works on frontend side.
